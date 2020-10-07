@@ -3,6 +3,10 @@
 #e8 .container {
     height: 200px;
     width: 200px;
+    display: flex;
+    justify-content: flex-start;
+    align-content: space-around;
+    align-items: center;
 }
 
 #e8 .item {

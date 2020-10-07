@@ -2,6 +2,8 @@
 
 #e7 .container {
     height: 200px;
+    display: flex;
+    flex-direction: column;
 }   
 
 #e7 .item {

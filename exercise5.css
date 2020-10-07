@@ -3,6 +3,10 @@
 #e5 .container {
     height: 500px;
     width: 1000px;
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    align-content: space-around;
 }
 
 #e5 .item {
